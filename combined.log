@@ -1,0 +1,5 @@
+{"level":"info","message":"Starting trading bot...","timestamp":"2024-11-03T20:45:11.999Z"}
+{"level":"error","message":"Error fetching OHLCV data: binance GET https://api.binance.com/sapi/v1/capital/config/getall?timestamp=1730666712005&recvWindow=10000&signature=d711e38c7892441a289dfef8779ec0bebb8172468e6e3c06e3fec05be7bffa5c fetch failed","timestamp":"2024-11-03T20:45:12.696Z"}
+{"level":"info","message":"Starting trading bot in simulation mode...","timestamp":"2024-11-03T20:45:54.261Z"}
+{"level":"info","message":"Initial balance: 10000 USDT","timestamp":"2024-11-03T20:45:54.263Z"}
+{"level":"error","message":"Error fetching OHLCV data: binance GET https://testnet.binance.vision/api/v3/exchangeInfo request timed out (10000 ms)","timestamp":"2024-11-03T20:46:04.485Z"}
